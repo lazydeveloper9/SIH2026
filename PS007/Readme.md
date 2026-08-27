@@ -1,1 +1,32 @@
+# Problem Statement ID	26007
+*Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visibility Conditions in Open Cast Iron Ore Mines.*
+## Description	
+### Background:
+NMDC Limited is Indiaâ€™s largest Iron Ore producer, currently producing approximately 53 Million Tonnes Per Annum (MTPA) from its three fully mechanized mining complexes, namely BIOM-Kirandul Complex, BIOM-Bacheli Complex in Chhattisgarh, and Donimalai Complex in Karnataka. The Bailadila Region alone contributes nearly 37 MTPA of Iron Ore production. In line with the National Steel Policy, NMDC has set a target of achieving 100 MT production capacity by 2030, with approximately 80 MT expected from the Bailadila Sector.
 
+The Bailadila mining region experiences severe monsoon conditions from June to October, including heavy rainfall, strong winds, high humidity, dense clouds, and thick fog. During this period, visibility on mine haul roads, particularly in hilltop mining areas, often reduces to as low as 3â€“5 meters. These conditions significantly affect the safe and efficient movement of Heavy Earth Moving Machinery (HEMM), especially dumpers engaged in ore transportation.
+
+### Problem Description:
+
+Dense fog and extremely low visibility during the monsoon season create major operational and safety challenges in the Bailadila iron ore mines. Poor visibility restricts dumper movement, forcing operators to reduce speed or temporarily halt operations to avoid accidents and unsafe conditions.This results in increased haul cycle times, reduced fleet productivity, lower ore evacuation, and production losses. The risk of vehicle collision, road accidents, and operational disruptions also increases substantially during such conditions. Existing visibility aids and operational controls have limited effectiveness in dense fog environments.There is a need for an intelligent, reliable, and technology-driven solution that can enable safe and efficient movement of mine vehicles under low-visibility conditions while ensuring continuity of operations and maintaining production levels. Expected Solution:
+
+The proposed solution should improve operator situational awareness, assist in vehicle guidance and collision avoidance, and support real-time monitoring and decision-making for safe haul road operations during adverse weather conditions.
+
+#### The solution may leverage technologies such as:
+
+- AI/ML-based analytics
+- Computer vision and thermal imaging
+- LiDAR and radar-based sensing
+- GPS/DGPS-based vehicle tracking
+- Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) communication
+- Autonomous or driver-assistance systems
+- IoT-enabled monitoring systems
+- Centralized command and control platforms
+- Digital Twin-based operational monitoring Expected Outcomes
+- Improved safety of dumper operations during foggy conditions
+- Reduction in collision risks and operational accidents
+- Improved haulage efficiency and reduced cycle times
+- Enhanced fleet utilization and continuity of mining operations during monsoon
+- Reduction in production losses caused by low visibility
+- Real-time monitoring and decision support for operators and control rooms
+- Scalable and deployable solution for large-scale mechanized open cast mines
