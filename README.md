@@ -105,3 +105,16 @@ Critical infrastructure and manufacturing industries generate highly confidentia
 │
 ├── LICENSE
 └── README.md
+```
+# 👥 Team Details
+Team Name: [ijjat se team ka naam soch ke batao]
+
+Institution: BHILAI INSTITUTE OF TECHNOLOGY DURG
+|Name|Role|Core Contributions|Contact|
+|----|----|------------------|-------|
+|Member 1|	Team Lead / AI Engineer|	System Architecture & Model Optimization|	[GitHub / Email]|
+|Member 2|	Edge AI & Embedded Dev|	Sensor Fusion & Hardware Interfacing (PS-1)|	[GitHub / Email]|
+|Member 3|	Backend & Agentic Systems|	Agent Orchestration & Local RAG (PS-2)|	[GitHub / Email]|
+|Member 4|	Full-Stack Developer|HUD Cab Interface & Web Workbench UI|	[GitHub / Email]|
+|Member 5|	Data & Simulation Engineer|	Synthetic Datasets & Testing Benchmarks|	[GitHub / Email]|
+|Member 6|	Research & QA Lead|	Compliance, Documentation & PPT Decks|	[GitHub / Email]|
