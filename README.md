@@ -107,7 +107,7 @@ Critical infrastructure and manufacturing industries generate highly confidentia
 └── README.md
 ```
 # 👥 Team Details
-Team Name: [ijjat se team ka naam soch ke batao]
+Team Name: Dhoomketu
 
 Institution: BHILAI INSTITUTE OF TECHNOLOGY DURG
 |Name|Role|Core Contributions|Contact|
