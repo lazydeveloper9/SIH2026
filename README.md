@@ -114,7 +114,7 @@ Institution: BHILAI INSTITUTE OF TECHNOLOGY DURG
 |----|----|------------------|-------|
 |Yogendra K Narmada|	Team Lead |	Synthetic Datasets & Testing Benchmarks|	[GitHub / Email]|
 |Rupesh Kumar Sahu|	Operational Lead|	System Architecture & Model Optimization|	[GitHub / Email]|
-|Pari Roy|	Edge AI & Embedded Dev|	Sensor Fusion & Hardware Interfacing (PS-1)|	[GitHub / Email]|
+|Shubham Kumar Sahu|	Edge AI & Embedded Dev|	Sensor Fusion & Hardware Interfacing (PS-1)|	[GitHub / Email]|
 |Akshat Agrawal|	Research & QA Lead|	Compliance, Documentation & PPT Decks|	[GitHub / Email]|
 |Sejal Sahu|	Backend & Agentic Systems|	Agent Orchestration & Local RAG (PS-2)|	[GitHub / Email]|
 |Manasvi Chanchal|	Full-Stack Developer|HUD Cab Interface & Workbench UI|	[GitHub / Email]|
